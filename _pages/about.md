@@ -60,7 +60,7 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 
 # 🎖 Honors and Awards
 - 2024.10 National Scholarship (Ph.D) (Top 1%) (国家奖学金)
-- 2024.07 Outstanding Reviewer for ACM MM2024 UAVs in Multimedia workshop
+- 2024.07 Outstanding Reviewer for ACM MM2024 UAVs in Multimedia Workshop
 - 2020.06 Provincial Outstanding Graduate (Undergraduate) (Top 0.1%) (省级优秀毕业生)
 
 # 👨‍💻 Academic Service
