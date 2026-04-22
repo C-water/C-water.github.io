@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Quan Chen"
+  name             : "Quan Chen<br>(陈泉)"
   avatar           : "images/Quan_Chen.jpg"
   bio              : "Jiaxing University"
   location         : "Zhejiang, China"
