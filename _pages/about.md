@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Intelligence, Jiaxing University. I completed both my undergraduate and doctoral studies at Hangzhou Dianzi University, under the supervision of Professor [Chenggang Yan](https://faculty.hdu.edu.cn/bgs/ycg/main.htm) and co-supervision of Professor [Bolun Zheng](https://faculty.hdu.edu.cn/zdhxy/zbl/main.htm). I would like to express my gratitude to Professors [Xu Jia](https://stephenjia.github.io/), [Zhedong Zheng](https://www.zdzheng.xyz/), [Shanxin Yuan](https://shanxinyuan.github.io/) and other scholars for their guidance and support. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through E-mail or WeChat.
+Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Intelligence, Jiaxing University. I completed both my undergraduate and doctoral studies at Hangzhou Dianzi University, under the supervision of Professor [Chenggang Yan](https://faculty.hdu.edu.cn/bgs/ycg/main.htm) and co-supervision of Professor [Bolun Zheng](https://faculty.hdu.edu.cn/zdhxy/zbl/main.htm). I would like to express my gratitude to Professors [Xu Jia](https://stephenjia.github.io/), [Zhedong Zheng](https://www.zdzheng.xyz/), [Shanxin Yuan](https://shanxinyuan.github.io/) and other scholars for their guidance and support. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through E-mail (chenquan@alu.hdu.edu.cn) or WeChat (cq1045333951).
 
 
 # 🔥 News
