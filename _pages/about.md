@@ -43,7 +43,7 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SDPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SDPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SDPL: Shifting-Dense Partition Learning for UAV-View Geo-Localization](https://ieeexplore.ieee.org/abstract/document/10587023)
