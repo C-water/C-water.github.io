@@ -69,7 +69,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2024, [Codes](ht
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/GeM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GEM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking Pooling for Multi-granularity Features in Aerial-view Geo-localization](https://ieeexplore.ieee.org/abstract/document/10723789)
@@ -82,7 +82,7 @@ IEEE Signal Processing Letters, 2024, [Codes](https://github.com/wtyhub/LPN)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MPFN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MPFN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Constrained predictive filters for single image bokeh rendering](https://ieeexplore.ieee.org/abstract/document/9767773)
