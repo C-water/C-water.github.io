@@ -17,14 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Intelligence, Jiaxing University. I completed both my undergraduate and doctoral studies at Hangzhou Dianzi University, under the supervision of Professor Chenggang Yan.
+If you are interested in collaborating with me or want to have a chat, always feel free to contact me through E-mail or WeChat.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;🎉 Serve at the Talent Service Center of the Ministry of Science and Technology of the People's Republic of China (科技部人才中心)! 
+- *2026.02*: &nbsp;🎉 one paper was accepted by Neural Networks!
+- *2026.02*: &nbsp;🎉 one paper was accepted by CVPR!
+- *2025.12*: &nbsp;🎉 one paper was accepted by IEEE TGRS!
+- *2025.11*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
+- *2025.07*: &nbsp;🎉 one paper was accepted by ACM MM 2025!
+- *2025.02*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
+- *2024.12*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
+- *2024.11*: &nbsp;🎉 one paper was accepted by Applied Intelligence!
+- *2024.10*: &nbsp;🎉 one paper was accepted by IEEE SPL!
+- *2024.10*: &nbsp;🎉 one paper was accepted by CVIU!
+- *2024.07*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
+- *2024.06*: &nbsp;🎉 one paper was accepted by JVCIR!
+- *2024.04*: &nbsp;🎉 one paper was accepted by JVCIR!
+- *2024.03*: &nbsp;🎉 one paper was accepted by AAAI 2024!
+- *2023.10*: &nbsp;🎉 one paper was accepted by NCAA!
+- *2023.06*: &nbsp;🎉 one paper was accepted by AAAI 2023!
+- *2022.05*: &nbsp;🎉 one paper was accepted by IEEE TCI!
 
 # 📝 Publications 
 
@@ -42,17 +57,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 👨‍💻 Academic Service
+- Reviewer for CVPR, NeurIPS, ICCV, AAAI, ECCV, ACMMM, …. 
+- Reviewer for IEEE-(Trans.IP, Trans.CSVT, Trans.MM, Trans.GRS), …. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.09 - 2026.03*, Ph.D., Hangzhou Dianzi University. 
+- *2016.09 - 2020.06*, Undergraduate, Hangzhou Dianzi University. 
