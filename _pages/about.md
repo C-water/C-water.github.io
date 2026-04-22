@@ -43,21 +43,17 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 # 📝 Publications 
 
 
-
-
-
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SDPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SDPL: Shifting-Dense Partition Learning for UAV-View Geo-Localization](https://ieeexplore.ieee.org/abstract/document/10587023)
 
 **Quan Chen**, Tingyu Wang, Zihao Yang, Haoran Li, Rongfeng Lu, Yaoqi Sun, Bolun Zheng, Chenggang Yan
+
 IEEE Transactions on Circuits and Systems for Video Technology, 2024, [Codes](https://github.com/C-water/SDPL_release)
 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - 2024.10 National Scholarship (Ph.D) (Top 1%) (国家奖学金)
