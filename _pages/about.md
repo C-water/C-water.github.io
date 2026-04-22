@@ -74,7 +74,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2024, [Codes](ht
 
 [Rethinking Pooling for Multi-granularity Features in Aerial-view Geo-localization](https://ieeexplore.ieee.org/abstract/document/10723789)
 
-Tingyu Wang, Zihao Yang, **Quan Chen**, Yaoqi Sun, Chenggang Yan
+Tingyu Wang, Zihao Yang, **Quan Chen**(corresponding), Yaoqi Sun, Chenggang Yan
 
 IEEE Signal Processing Letters, 2024, [Codes](https://github.com/wtyhub/LPN)
 
@@ -82,12 +82,26 @@ IEEE Signal Processing Letters, 2024, [Codes](https://github.com/wtyhub/LPN)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/NCAA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Depth-guided deep filtering network for efficient single image bokeh rendering](https://link.springer.com/article/10.1007/s00521-023-08852-y)
+
+**Quan Chen**, Bolun Zheng, Xiaofei Zhou, Aiai Huang, Yaoqi Sun, Chuqiao Chen, Chenggang Yan, Shanxin Yuan
+
+Neural Computing and Applications, 2023, [Codes](https://github.com/C-water/MPFN)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MPFN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Constrained predictive filters for single image bokeh rendering](https://ieeexplore.ieee.org/abstract/document/9767773)
 
-Bolun Zheng, **Quan Chen**, Shanxin Yuan, Hua Zhang, Jiyong Zhang, Chenggang Yan, Gregory Slabaugh
+Bolun Zheng, **Quan Chen**(equal contribution), Shanxin Yuan, Hua Zhang, Jiyong Zhang, Chenggang Yan, Gregory Slabaugh
 
 IEEE Transactions on Computational Imaging, 2022, [Codes](https://github.com/C-water/MPFN)
 
