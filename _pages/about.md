@@ -43,6 +43,19 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SaLPN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scale-adaptive UAV Geo-Localization via Height-aware Partition Learning](https://arxiv.org/abs/2412.11535)
+
+**Quan Chen**, Tingyu Wang, Rongfeng Lu, Yu Liu, Bolun Zheng, Zhedong Zheng
+
+ACMMM, 2026, (Under review)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SDPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,6 +67,35 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2024, [Codes](ht
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GeM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Pooling for Multi-granularity Features in Aerial-view Geo-localization](https://ieeexplore.ieee.org/abstract/document/10723789)
+
+Tingyu Wang, Zihao Yang, **Quan Chen**, Yaoqi Sun, Chenggang Yan
+
+IEEE Signal Processing Letters, 2024, [Codes](https://github.com/wtyhub/LPN)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MPFN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Constrained predictive filters for single image bokeh rendering](https://ieeexplore.ieee.org/abstract/document/9767773)
+
+Bolun Zheng, **Quan Chen**, Shanxin Yuan, Hua Zhang, Jiyong Zhang, Chenggang Yan, Gregory Slabaugh
+
+IEEE Transactions on Computational Imaging, 2022, [Codes](https://github.com/C-water/MPFN)
+
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 - 2024.10 National Scholarship (Ph.D) (Top 1%) (国家奖学金)
