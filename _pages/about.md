@@ -57,6 +57,12 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
+
+# 🎖 Honors and Awards
+- 2024.10 National Scholarship (Ph.D) (Top 1%) (国家奖学金)
+- 2024.07 Outstanding Reviewer for ACM MM2024 UAVs in Multimedia workshop
+- 2020.06 Provincial Outstanding Graduate (Undergraduate) (Top 0.1%) (省级优秀毕业生)
+
 # 👨‍💻 Academic Service
 - Reviewer for CVPR, NeurIPS, ICCV, AAAI, ECCV, ACMMM, …. 
 - Reviewer for IEEE-(Trans.IP, Trans.CSVT, Trans.MM, Trans.GRS), …. 
