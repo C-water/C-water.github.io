@@ -21,7 +21,7 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 one paper was accepted by Pattern Recognition!
+- *2026.05*: &nbsp;🎉 one paper was accepted by PR!
 - *2026.04*: &nbsp;🎉 Serve at the Talent Service Center of the Ministry of Science and Technology of the People's Republic of China (科技部人才中心)!
 - *2026.04*: &nbsp;🎉 one paper was accepted by IEEE TPAMI!
 - *2026.02*: &nbsp;🎉 one paper was accepted by Neural Networks!
