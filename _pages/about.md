@@ -115,6 +115,7 @@ IEEE Transactions on Computational Imaging, 2022, [Codes](https://github.com/C-w
 
 
 # 🎖 Honors and Awards
+- 2026.03 China Commercial Federation Science and Technology Award (Third Class) (中国商业联合会科技进步三等奖)
 - 2024.10 National Scholarship (Ph.D) (Top 1%) (国家奖学金)
 - 2024.07 Outstanding Reviewer for ACM MM2024 UAVs in Multimedia Workshop
 - 2020.06 Provincial Outstanding Graduate (Undergraduate) (Top 0.1%) (省级优秀毕业生)
