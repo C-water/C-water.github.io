@@ -21,6 +21,7 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 one paper was accepted by IEEE TGRS!
 - *2026.05*: &nbsp;🎉 one paper was accepted by PR!
 - *2026.05*: &nbsp;🎉 one paper was accepted EITEE!
 - *2026.04*: &nbsp;🎉 Serve at the Talent Service Center of the Ministry of Science and Technology of the People's Republic of China (科技部人才中心)!
