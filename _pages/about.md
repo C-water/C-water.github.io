@@ -21,7 +21,7 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉 Three paper was accepted by ACMMM 2026!
+- *2026.07*: &nbsp;🎉 Three papers were accepted by ACMMM 2026!
 - *2026.07*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
 - *2026.06*: &nbsp;🎉 one paper was accepted by IEEE TGRS!
 - *2026.05*: &nbsp;🎉 one paper was accepted by PR!
