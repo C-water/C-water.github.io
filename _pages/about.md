@@ -21,30 +21,31 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 One paper was accepted by CAAI TIT!
 - *2026.07*: &nbsp;🎉 Three papers were accepted by ACMMM 2026!
-- *2026.07*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
-- *2026.06*: &nbsp;🎉 one paper was accepted by IEEE TGRS!
-- *2026.05*: &nbsp;🎉 one paper was accepted by PR!
-- *2026.05*: &nbsp;🎉 one paper was accepted EITEE!
+- *2026.07*: &nbsp;🎉 One paper was accepted by IEEE TCSVT!
+- *2026.06*: &nbsp;🎉 One paper was accepted by IEEE TGRS!
+- *2026.05*: &nbsp;🎉 One paper was accepted by PR!
+- *2026.05*: &nbsp;🎉 One paper was accepted EITEE!
 - *2026.04*: &nbsp;🎉 Serve at the Talent Service Center of the Ministry of Science and Technology of the People's Republic of China (科技部人才中心)!
-- *2026.04*: &nbsp;🎉 one paper was accepted by IEEE TPAMI!
-- *2026.02*: &nbsp;🎉 one paper was accepted by Neural Networks!
-- *2026.02*: &nbsp;🎉 one paper was accepted by CVPR!
-- *2025.12*: &nbsp;🎉 one paper was accepted by IEEE TGRS!
-- *2025.11*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
-- *2025.07*: &nbsp;🎉 one paper was accepted by ACM MM 2025!
-- *2025.02*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
-- *2024.12*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
-- *2024.11*: &nbsp;🎉 one paper was accepted by Applied Intelligence!
-- *2024.10*: &nbsp;🎉 one paper was accepted by IEEE SPL!
-- *2024.10*: &nbsp;🎉 one paper was accepted by CVIU!
-- *2024.07*: &nbsp;🎉 one paper was accepted by IEEE TCSVT!
-- *2024.06*: &nbsp;🎉 one paper was accepted by JVCIR!
-- *2024.04*: &nbsp;🎉 one paper was accepted by JVCIR!
-- *2024.03*: &nbsp;🎉 one paper was accepted by AAAI 2024!
-- *2023.10*: &nbsp;🎉 one paper was accepted by NCAA!
-- *2023.06*: &nbsp;🎉 one paper was accepted by AAAI 2023!
-- *2022.05*: &nbsp;🎉 one paper was accepted by IEEE TCI!
+- *2026.04*: &nbsp;🎉 One paper was accepted by IEEE TPAMI!
+- *2026.02*: &nbsp;🎉 One paper was accepted by Neural Networks!
+- *2026.02*: &nbsp;🎉 One paper was accepted by CVPR!
+- *2025.12*: &nbsp;🎉 One paper was accepted by IEEE TGRS!
+- *2025.11*: &nbsp;🎉 One paper was accepted by IEEE TCSVT!
+- *2025.07*: &nbsp;🎉 One paper was accepted by ACM MM 2025!
+- *2025.02*: &nbsp;🎉 One paper was accepted by IEEE TCSVT!
+- *2024.12*: &nbsp;🎉 One paper was accepted by IEEE TCSVT!
+- *2024.11*: &nbsp;🎉 One paper was accepted by Applied Intelligence!
+- *2024.10*: &nbsp;🎉 One paper was accepted by IEEE SPL!
+- *2024.10*: &nbsp;🎉 One paper was accepted by CVIU!
+- *2024.07*: &nbsp;🎉 One paper was accepted by IEEE TCSVT!
+- *2024.06*: &nbsp;🎉 One paper was accepted by JVCIR!
+- *2024.04*: &nbsp;🎉 One paper was accepted by JVCIR!
+- *2024.03*: &nbsp;🎉 One paper was accepted by AAAI 2024!
+- *2023.10*: &nbsp;🎉 One paper was accepted by NCAA!
+- *2023.06*: &nbsp;🎉 One paper was accepted by AAAI 2023!
+- *2022.05*: &nbsp;🎉 One paper was accepted by IEEE TCI!
 
 # 📝 Publications 
 
