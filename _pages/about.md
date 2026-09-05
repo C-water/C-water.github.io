@@ -21,7 +21,7 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 
 
 # 🔥 News
-- *2026.08*: Received the Young Scientists Fund (Category C) of the NSFC! (国自然青年基金C类项目).
+- *2026.08*: &nbsp;🎉 Received the Young Scientists Fund (Category C) of the NSFC (国自然青年基金C类项目)!
 - *2026.08*: &nbsp;🎉 One paper was accepted by CAAI TIT!
 - *2026.07*: &nbsp;🎉 Three papers were accepted by ACMMM 2026!
 - *2026.07*: &nbsp;🎉 One paper was accepted by IEEE TCSVT!
