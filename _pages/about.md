@@ -21,6 +21,7 @@ Hi there! This is Quan Chen (陈泉), a lecturer at the School of Artificial Int
 
 
 # 🔥 News
+- *2026.08*: Received the Young Scientists Fund (Category C) of the NSFC! (国自然青年基金C类项目).
 - *2026.08*: &nbsp;🎉 One paper was accepted by CAAI TIT!
 - *2026.07*: &nbsp;🎉 Three papers were accepted by ACMMM 2026!
 - *2026.07*: &nbsp;🎉 One paper was accepted by IEEE TCSVT!
@@ -129,5 +130,5 @@ IEEE Transactions on Computational Imaging, 2022, [Codes](https://github.com/C-w
 - Reviewer for IEEE-(Trans.IP, Trans.CSVT, Trans.MM, Trans.GRS), …. 
 
 # 📖 Educations
-- *2020.09 - 2026.03*, Ph.D., Hangzhou Dianzi University. 
-- *2016.09 - 2020.06*, Undergraduate, Hangzhou Dianzi University. 
+- Ph.D., Hangzhou Dianzi University. 
+- Undergraduate, Hangzhou Dianzi University. 
